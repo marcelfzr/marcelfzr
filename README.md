@@ -3,8 +3,8 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=yungsnowx&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff" alt="d3sox" />
 
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Software Development and DevOps
+- 🌱 I’m currently learning Fullstack Web Development
 
 ### Languages:
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
